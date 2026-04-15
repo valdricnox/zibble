@@ -11,7 +11,7 @@
 #   Windows Optimization Toolkit — Professional Edition
 #
 #   Uso rápido (PowerShell Admin):
-#   irm https://raw.githubusercontent.com/SEU_USUARIO/zibble/main/zibble.ps1 | iex
+#   irm https://raw.githubusercontent.com/valdricnox/zibble/refs/heads/main/zibble_v2.ps1 | iex
 #
 #   GitHub : github.com/SEU_USUARIO/zibble
 #   Versão : 2.0.0
